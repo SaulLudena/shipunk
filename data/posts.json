@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre_personaje": "David Martinez",
+    "descripcion_personaje": "David Martínez, criado por su madre Gloria en Santo Domingo, se unió a la Academia Arasaka en Night City tras el esfuerzo de su madre como EMT, donde empezó a vender XBD a sus compañeros de clase con la ayuda de su amigo Doc.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695162262/david_martinez_jjd4ue.jpg",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695162280/1273810_zd0qev.png",
+    "estado_personaje": false
+  },
+  {
+    "id": 2,
+    "nombre_personaje": "Lucyna Kushinada",
+    "descripcion_personaje": "Lucy, de ascendencia japonesa y polaca, fue seleccionada a una edad temprana, junto con otros doce niños, para recibir capacitación en una instalación secreta de Arasaka y convertirse en netrunner, guiada por el sueño de servir a la megacorporación más poderosa del mundo, lo que la ayudó a superar los desafíos del entrenamiento.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1694933159/lucy_shipunk_taku6i.jpg",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1694933160/lucy_wallpaper_shipunk_yrdmfp.jpg",
+    "estado_personaje": true
+  },
+  {
+    "id": 3,
+    "nombre_personaje": "Rebecca",
+    "descripcion_personaje": "Rebecca, una edgerunner de Night City, solía colaborar con su hermano Pilar en trabajos mercenarios junto a Maine y su equipo. A pesar de su asociación laboral, la relación entre los hermanos era tensa debido al comportamiento provocador de Pilar, llevando a Rebecca a contemplar la posibilidad de matarlo algún día.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246127/Rebecca_Infobox_CPEDGE_qkijy4.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246127/HD-wallpaper-rebecca-cyberpunk-edgerunners_somyzq.jpg",
+    "estado_personaje": false
+  },
+  {
+    "id": 4,
+    "nombre_personaje": "Maine",
+    "descripcion_personaje": "Maine solía ser un soldado militar antes de convertirse en mercenario. Ahora, un veterano edgerunner en Night City, Maine sueña con 'Triunfar', aunque valora su amistad con su equipo más que su gloria.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246177/Maine_Infobox_CPEDGE_rfxbni.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246179/1274736_zpsrue.png",
+    "estado_personaje": false
+  },
+  {
+    "id": 5,
+    "nombre_personaje": "Pilar",
+    "descripcion_personaje": "Pilar era un edgerunner de Night City y fue descrito como un techie cómico y vulgar. Él y su hermana Rebecca a menudo se unen a Maine y su equipo para realizar trabajos de mercenarios",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246424/Pilar_Infobox_CPEDGE_z4pxoo.webp",
+    "url_imagen_wallpaper": "",
+    "estado_personaje": false
+  },
+  {
+    "id": 6,
+    "nombre_personaje": "Kiwi ",
+    "descripcion_personaje": "Kiwi, miembro del equipo de mercenarios de Maine, es una netrunner enigmática y sarcástica con una máscara de mandíbula cibernética desmontable que actúa como mentor de Lucy.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246210/Kiwi_Infobox_CPEDGE_pt5ged.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246210/kiwiedgerunners_a0nid5.webp",
+    "estado_personaje": false
+  },
+  {
+    "id": 7,
+    "nombre_personaje": "Falco ",
+    "descripcion_personaje": "Falco actúa como un conductor confiable, nunca cuestiona sus órdenes y realiza efectivamente sus deberes con un alto nivel de compostura. Está relativamente distante del equipo, sin mostrar ninguna intimidad en pantalla con ninguno de ellos, pero se preocupa por ellos de todos modos.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246425/Falco_Infobox_CPEDGE_d9mrt0.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246425/download_caid7x.jpg",
+    "estado_personaje": true
+  },
+  {
+    "id": 8,
+    "nombre_personaje": "Faraday ",
+    "descripcion_personaje": "Faraday era un arreglador despiadado que trabajaba para Militech. Estuvo establecido en Santo Domingo y, a menudo, contrataba a Maine y su equipo para realizar trabajos que generalmente los involucran realizando espionaje corporativo contra Arasaka.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246425/Faraday_zj0sjy.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246425/CPEDGE_Faraday_1_hcvvyj.webp",
+    "estado_personaje": false
+  },
+  {
+    "id": 9,
+    "nombre_personaje": "Ripperdoc ",
+    "descripcion_personaje": "Durante el día, Doc trabaja como cirujano, pero en sus horas libres, se convierte en un ripperdoc ilícito. Como hombre de negocios activo, Doc también gestiona actividades secundarias vendiendo braindances, software, drogas y otros artículos que a menudo se encuentran en el mercado negro",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246531/Doc_Infobox_CPEDGE_oqa5vw.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246530/awd_fdtycy.jpg",
+    "estado_personaje": true
+  },
+  {
+    "id": 10,
+    "nombre_personaje": "Gloria Martinez",
+    "descripcion_personaje": "Gloria y su hijo David vivían en un apartamento del Megedificio H4 en Santo Domingo, Night City. Ella era técnica en emergencias médicas (TEM) y se esforzaba al máximo para mantener a su hijo.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246531/Gloria_Infobox_CPEDGE_ww7xkz.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246532/f92c7fa89bbfab57ccf16bc59c8e1067_olhqm3.jpg",
+    "estado_personaje": false
+  },
+  {
+    "id": 11,
+    "nombre_personaje": "Adam Smasher",
+    "descripcion_personaje": "Adam Smasher es un solitario cyborg completo y rival de Morgan Blackhand. Está empleado por Arasaka y, para el año 2077, ha ascendido al cargo de jefe de seguridad y guardaespaldas personal de Yorinobu Arasaka.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246531/damn-is-adam-smasher-a-badass-villain-in-my-opinion-curious-v0-5zyrqyw8ud7a1_pavdru.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246532/wp12018175_ji8oao.jpg",
+    "estado_personaje": false
+  },
+  {
+    "id": 12,
+    "nombre_personaje": "Dorio",
+    "descripcion_personaje": "Dorio fue una Edgerunner veterana y la mano derecha de Maine, así como miembro del equipo Edgerunner de Maine. Es fornida y fuerte, pero a pesar de su exterior duro, Dorio tiene un lado tierno que solo muestra a las personas en las que confía.",
+    "url_imagen": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246739/Dorio_Infobox_CPEDGE_bdmkux.webp",
+    "url_imagen_wallpaper": "https://res.cloudinary.com/dbtzbuew2/image/upload/v1695246738/dorio-headcanons-go-v0-1i03ml7rlgw91_wynw3v.webp",
+    "estado_personaje": false
+  }
+]
