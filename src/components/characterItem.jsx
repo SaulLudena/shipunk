@@ -12,7 +12,7 @@ export default function CharacterItem({ characterItem }) {
 
   return (
     <>
-      <div className="fixed flex items-center w-full gap-10 px-10 h-36">
+      <div className="fixed flex items-center w-full gap-10 px-10 max-md:z-10 h-36 max-md:h-28">
         <Link href="/" className="max-md:hidden">
           <img
             src="https://res.cloudinary.com/dbtzbuew2/image/upload/v1695099776/Vector_165_yodaaf.png"
@@ -20,7 +20,7 @@ export default function CharacterItem({ characterItem }) {
             className="w-14 h-14"
           />
         </Link>
-        <div className="justify-center w-full max-lg:justify-center">
+        <div className="justify-center w-full max-lg:justify-center ">
           <LiveSearcher />
         </div>
       </div>
@@ -35,7 +35,7 @@ export default function CharacterItem({ characterItem }) {
           </p>
         </div>
         <div className="grid items-center h-screen col-span-9 max-lg:col-span-10 max-md:col-span-12">
-          <div className="w-[80%] max-w-[2600px] m-auto max-lg:w-[90%]">
+          <div className="w-[80%] max-w-[2600px] m-auto max-lg:w-[90%] max-md:-translate-y-10">
             <div className="grid grid-cols-12 gap-2 text-left max-lg:flex-col max-lg:flex max-lg:text-center">
               <div className="grid col-span-7 gap-5 ">
                 <h1 className="font-bold text-white text-7xl max-lg:text-5xl">

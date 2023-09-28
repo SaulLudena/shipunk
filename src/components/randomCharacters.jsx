@@ -21,7 +21,7 @@ export default function RandomCharacters() {
   }, []);
 
   return (
-    <div className="grid h-screen grid-cols-1 max-md:grid-cols-3 max-md:h-40">
+    <div className="z-10 grid h-screen grid-cols-1 max-md:grid-cols-3 max-md:h-40">
       {randomCharacters.map((character) => {
         return (
           <Link

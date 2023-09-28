@@ -21,11 +21,11 @@ export default function LiveSearcher() {
   }, [characters]);
 
   return (
-    <div className="grid gap-5 p-5 pl-0 max-md:justify-center">
+    <div className="grid gap-5 p-5 pl-0 max-md:pl-5 max-md:justify-center">
       <div className="flex items-center text-left ">
         <input
           type="text"
-          className="py-2 pl-3 pr-2 rounded-l-lg shadow-lg outline-none w-96"
+          className="w-full py-2 pl-3 pr-2 rounded-l-lg shadow-lg outline-none md:w-96"
           placeholder="David, Lucy, Kiwi"
           onChange={(e) => {
             setQuery(e.target.value);
@@ -50,11 +50,11 @@ export default function LiveSearcher() {
           </div>
         )}
       </div>
-      <div>
+      <div className="relative max-md:flex max-md:justify-center">
         <ul
           className={
             open
-              ? "absolute bg-white w-[26.5rem] shadow-lg  py-1 rounded-lg h-40 overflow-auto "
+              ? "absolute bg-white  w-[26.5rem] max-md:w-[15.5rem] shadow-lg py-1 rounded-lg h-40 overflow-auto z-10"
               : "hidden"
           }
         >
